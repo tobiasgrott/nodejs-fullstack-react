@@ -6,15 +6,15 @@ module.exports =  {
   //   use_env_variable: 'DATABASE_URL'
   // },
   "development": {
-    "username": "postgres",
-    "password": "postgres",
+    "username": "steven",
+    "password": null,
     "database": "books",
     "host": "127.0.0.1",
     "dialect": "postgres",
   },
   "test": {
-    "username": "postgres",
-    "password": "postgres",
+    "username": "steven",
+    "password": null,
     "database": "book_test",
     "host": "127.0.0.1",
     "dialect": "postgres",
